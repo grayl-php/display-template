@@ -14,7 +14,7 @@
     }
   ],
   "type": "library",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "require": {
     "grayl/file": "^1",
     "grayl/mixin-common": "^1",
