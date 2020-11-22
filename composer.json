@@ -14,10 +14,10 @@
     }
   ],
   "type": "library",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "require": {
-    "grayl/file": "^1",
-    "grayl/mixin-common": "^1",
+    "grayl/file": "^1.0",
+    "grayl/mixin-common": "^1.0",
     "php": "~7.4"
   },
   "require-dev": {
